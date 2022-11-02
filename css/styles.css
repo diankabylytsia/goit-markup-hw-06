@@ -445,7 +445,7 @@ body {
 .footer-container {
   display: flex;
   align-items: baseline;
-  gap: 70px;
+  gap: 93px;
 }
 .footer-adress {
   background-color: var(--big-color);
@@ -550,7 +550,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   display: block;
-  color:var(--medium-color);
+  color: var(--medium-color);
   margin-bottom: 20px;
 }
 .follow-btn {
@@ -791,6 +791,7 @@ body {
   border: 1px solid rgba(33, 33, 33, 0.2);
   border-radius: 4px;
   resize: none;
+  display: block;
   padding-top: 12px;
   padding-right: 16px;
   padding-bottom: 12px;
